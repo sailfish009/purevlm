@@ -1,5 +1,5 @@
 """
-Pure VLM (NumPy): numpy version
+Pure VLM (NumPy): initial numpy version
 BAE with stabilized reconstruction loss + feature normalization.
 """
 
